@@ -1,0 +1,21 @@
+{
+  "name": "WeatherLife",
+  "short_name": "WeatherLife",
+  "description": "Daily life indices for 50 cities worldwide",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f766e",
+  "background_color": "#f8f9fb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
